@@ -19,7 +19,6 @@ class storedData {
     getNotes() {
         return this.read().then((notes) => {
             let parsedNotes;
-
         //Array for if there are no notes listed
             try {
                 parsedNotes = [].concat(JSON.parse(notes));
@@ -29,6 +28,7 @@ class storedData {
             return parsedNotes;
         });
     }
+
     //Unique ID
     addNote(note) {
         const { title, text } = note;
@@ -38,6 +38,7 @@ class storedData {
             .then((updatedNotes) => this.write(updatedNotes))
             .then(() => newNote)
     }
+    
     //Deleting a note
     deleteNote(id) {
         return this.getNotes()
@@ -45,7 +46,6 @@ class storedData {
             .then((updatedNotes) => this.write(updatedNotes))
     }
 }
-
 
 
 module.exports = new storedData();
