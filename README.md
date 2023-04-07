@@ -4,7 +4,8 @@
 This is an application created for you to save your notes. You will put a title name for the task and noted details about the task. You can save, add and delete tasks to your Recall Notes page as you wish. 
 <br>
 <br>
-# Technologies used:
+#Technologies used:
+
 JavaScript, HTML, CSS, JSON, Express, node, uuid.
 <br>
 In order to use this code on a local computer, you will need to make sure you have all of the packages installed:
