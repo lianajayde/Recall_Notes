@@ -3,7 +3,6 @@
 
 This is an application created for you to save your notes. You will put a title name for the task and noted details about the task. You can save, add and delete tasks to your Recall Notes page as you wish. 
 <br>
-<br>
 # Technologies used:
 
 JavaScript, HTML, CSS, JSON, Express, node, uuid.
@@ -11,7 +10,6 @@ JavaScript, HTML, CSS, JSON, Express, node, uuid.
 In order to use this code on a local computer, you will need to make sure you have all of the packages installed:
 <br>
 npm install, node.js (node -v), express.js (npm i express), and UUID(npm i uuid)
-<br>
 <br>
 
 Helpful websites used:
