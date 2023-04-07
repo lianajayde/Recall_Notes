@@ -5,7 +5,6 @@ This is an application created for you to save your notes. You will put a title 
 <br>
 <br>
 # Technologies used:
-<br>
 JavaScript, HTML, CSS, JSON, Express, node, uuid.
 <br>
 In order to use this code on a local computer, you will need to make sure you have all of the packages installed:
@@ -20,7 +19,6 @@ https://expressjs.com/en/guide/using-middleware.html, https://www.w3schools.com/
 <br>
 
 # Demo
-<br>
 <a href="https://recall-your-notes.herokuapp.com/">Heroku Deployment Link Here</a>
 <br>
 Screenshots here
