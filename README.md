@@ -3,7 +3,7 @@
 
 This is an application created for you to save your notes. You will put a title name for the task and noted details about the task. You can save, add and delete tasks to your Recall Notes page as you wish. 
 <br>
-I learned how to use npm i uuid and more about node and express.
+I learned some new packages and more about node and express.
 <br>
 # Technologies used:
 
