@@ -43,7 +43,7 @@ class storedData {
     deleteNote(id) {
         return this.getNotes()
             .then((notes) => notes.filter(n => n.id !== id))
-            .then((updatedNotes) => this.write(updatedNotes))
+            .then((filterNotes) => this.write(filterNotes))
     }
 }
 
