@@ -1,18 +1,17 @@
 # Recall_Notes
-<<<<<<< HEAD
 <br>
 #Details
 <br>
 This is an application created for you to save your notes. You will put a title name for the task and noted details about the task. You can save, add and delete tasks to your Recall Notes page as you wish. 
 <br>
 #Technologies Used:
-=======
+
 # Details
 
 This is an application created for you to save your notes. You will put a title name for the task and noted details about the task. You can save, add and delete tasks to the notes page as you wish. 
 <br>
 I learned some new packages and more about node and express.
->>>>>>> 028add5ae1f75ddba4b031feba5ee7fe816272b6
+
 <br>
 # Technologies used:
 
