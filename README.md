@@ -28,7 +28,7 @@ Demo:
 After writing details in the note, make sure you click the save button on the top right corner!
 <br><br>
 ![one](https://user-images.githubusercontent.com/117928966/230748074-f44a55be-a6c3-4f4c-bd46-4cd4db9201c4.jpg)
-![two](https://user-images.githubusercontent.com/117928966/230748078-e968483c-14a6-4235-9cd9-95e618e3520f.jpg)
-![three](https://user-images.githubusercontent.com/117928966/230748082-be8ea313-8cc4-4c4e-9e00-0e772c67a8ce.jpg)
+![two](https://user-images.githubusercontent.com/117928966/230748383-9b0344a7-e50c-43ee-8ebf-910f973374b8.jpg)
+![three](https://user-images.githubusercontent.com/117928966/230748391-0adf4331-bd9d-48f6-a90c-edd224cdc451.jpg)
 ![four](https://user-images.githubusercontent.com/117928966/230748083-20dadda5-e7da-4df8-93de-c546c4909cc0.jpg)
 ![five](https://user-images.githubusercontent.com/117928966/230748084-09534c67-d88c-48fa-a6be-938a3dabc1cf.jpg)
