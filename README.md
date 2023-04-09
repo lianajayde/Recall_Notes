@@ -24,8 +24,6 @@ https://expressjs.com/en/guide/using-middleware.html, https://www.w3schools.com/
 Demo:
 <br>
 <a href="https://recall-your-notes.herokuapp.com/">Heroku Deployment Link Here</a>✨
-<br>
-After writing details in the note, make sure you click the save button on the top right corner!
 <br><br>
 ![one](https://user-images.githubusercontent.com/117928966/230748074-f44a55be-a6c3-4f4c-bd46-4cd4db9201c4.jpg)
 ![two](https://user-images.githubusercontent.com/117928966/230748383-9b0344a7-e50c-43ee-8ebf-910f973374b8.jpg)
