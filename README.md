@@ -26,7 +26,7 @@ Demo:
 <a href="https://recall-your-notes.herokuapp.com/">Heroku Deployment Link Here</a>✨
 <br><br>
 ![one](https://user-images.githubusercontent.com/117928966/230748074-f44a55be-a6c3-4f4c-bd46-4cd4db9201c4.jpg)
-![two](https://user-images.githubusercontent.com/117928966/230748383-9b0344a7-e50c-43ee-8ebf-910f973374b8.jpg)
-![three](https://user-images.githubusercontent.com/117928966/230748391-0adf4331-bd9d-48f6-a90c-edd224cdc451.jpg)
+![two](https://user-images.githubusercontent.com/117928966/230938019-4151634e-8dc7-4c01-a987-6d25d2c753da.jpg)
+![three](https://user-images.githubusercontent.com/117928966/230938094-d0957c4d-f20c-40df-afbc-8cccb7fbc080.jpg)
 ![four](https://user-images.githubusercontent.com/117928966/230748083-20dadda5-e7da-4df8-93de-c546c4909cc0.jpg)
 ![five](https://user-images.githubusercontent.com/117928966/230748084-09534c67-d88c-48fa-a6be-938a3dabc1cf.jpg)
